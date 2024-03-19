@@ -1,0 +1,99 @@
+/* MediaQ: */
+@media (max-width: 1280px) {
+    body {
+        background-color: green;
+    }
+  
+ 
+}
+
+/* ------------------------------------------------[Desktop] */
+@media (max-width: 880px) {
+    body {
+        background-color: peru;
+    }
+
+ 
+}
+
+/* ------------------------------------------------[Tablet] */
+
+@media (max-width: 580px) {
+    body{
+        background-color: burlywood;
+    }
+
+}
+
+/* ------------------------------------------------[Mobile] */
+
+/*------- Container---------*/
+
+.gapNavContainer{
+    border: solid green;
+    background-color: black;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+    padding: 10px;
+    display: flex;
+
+
+}
+.dnNavContainer{
+    border: solid blue;
+    background-color: yellow;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+    padding: 10px;
+    display: flex;
+    
+}
+.oldNavContainer{
+    border: solid orange;
+    background-color: white;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+    padding: 10px;
+    display: flex;
+
+}
+.springNavContainer{
+    border: solid red;
+    background-color: blue;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+    padding: 10px;
+    display: flex;
+
+}
+
+.sizNavContainer{
+    border: solid black;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+    padding: 10px;
+    display: flex;
+}
+.imageContainer{
+    border:solid black;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+
+}
+.picContainer{
+    border: solid purple;
+    border-width: .2px;
+    height: 6vh;
+    margin: 1em;
+
+}
+.button{
+    border: solid white;
+    
+}
